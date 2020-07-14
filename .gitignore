@@ -1,0 +1,16 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Danger levels/out/
+/Problems/Danger levels/out/production/classes/
+/Problems/Days of week/out/
+/Problems/Days of week/out/production/classes/
+/Problems/Decrement all/out/
+/Problems/Decrement all/out/production/classes/
+/Problems/Project constants and methods/out/
+/Problems/Project constants and methods/out/production/classes/
+*.iml
+*.yaml
+*.html
